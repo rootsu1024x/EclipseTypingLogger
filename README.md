@@ -27,7 +27,7 @@ sandipchitaleseclipseplugins - Sandip Chitale's Eclipse Plug-ins - Google Projec
 
 のコードが含まれています。
 
-その部分が修正BSDライセンスなので、本プログラムも修正BSDライセンスとします。
+そのコードが修正BSDライセンスなので、本プログラムも修正BSDライセンスとします。
 
 ## なんでこんなものを…るーつにゃんさん…酸素欠乏症にかかって…
 
